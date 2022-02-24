@@ -125,9 +125,9 @@
             <resources> 
               <resource> 
                 <directory>${project.basedir}/target</directory>  
-                <includes> 
-                  <include></include> 
-                </includes> 
+                <includes>
+                  <include>*.war</include>
+                </includes>
               </resource> 
             </resources> 
           </deployment> 
