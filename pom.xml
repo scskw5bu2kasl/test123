@@ -125,16 +125,12 @@
             <resources> 
               <resource> 
                 <directory>${project.basedir}/target</directory>  
-                <includes> 
-                  <include>*.war</include> 
-                </includes> 
+                <includes>
+                  <include>*.war</include>
+                </includes>
               </resource> 
             </resources> 
-          </deployment>  
-          <resourceGroup>RGSCSKNISHI5BU2KASAMPLE</resourceGroup>
-          <appName>AppService-prototype13</appName>
-          <pricingTier>B1</pricingTier>
-          <region>japanwest</region>
+          </deployment> 
         </configuration> 
       </plugin> 
     </plugins> 
