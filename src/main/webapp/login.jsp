@@ -10,7 +10,7 @@
     xmlns:p="http://primefaces.org/ui">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Login Page</title>
+    <title>Login Page1</title>
   </head>
   <body>
     <h2>Login Page</h2>
